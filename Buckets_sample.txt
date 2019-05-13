@@ -1,0 +1,92 @@
+
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#Collection(microsoft.graph.plannerBucket)",
+    "@odata.count": 12,
+    "@odata.nextLink": "https://graph.microsoft.com/v1.0/Planner/Plans/rQuainZGZU2v7VwGld7ivpcADaM1/buckets?$skiptoken=1%25238586444700797632074P_%2bvAUS-hi6NkS_JKcrGlOWv5cAEyv0",
+    "value": [
+        {
+            "@odata.etag": "W/\"JzEtQnVja2V0QEBAQEBAQEBAQEBAQEBARCc=\"",
+            "name": "Delve",
+            "planId": "rQuainZGZU2v7VwGld7ivpcADaM1",
+            "orderHint": "8586444696\\",
+            "id": "Bjix8wX5KU-pXc4H8HQMHpcAAAl-"
+        },
+        {
+            "@odata.etag": "W/\"JzEtQnVja2V0QEBAQEBAQEBAQEBAQEBARCc=\"",
+            "name": "Stream",
+            "planId": "rQuainZGZU2v7VwGld7ivpcADaM1",
+            "orderHint": "8586444699+",
+            "id": "ITuB3H-1g0e3NSIbzBqO65cANrv2"
+        },
+        {
+            "@odata.etag": "W/\"JzEtQnVja2V0QEBAQEBAQEBAQEBAQEBARCc=\"",
+            "name": "Whiteboard",
+            "planId": "rQuainZGZU2v7VwGld7ivpcADaM1",
+            "orderHint": "858644469>x",
+            "id": "221FGWk_GkyhagJX19fgopcAMJOv"
+        },
+        {
+            "@odata.etag": "W/\"JzEtQnVja2V0QEBAQEBAQEBAQEBAQEBARCc=\"",
+            "name": "Planner",
+            "planId": "rQuainZGZU2v7VwGld7ivpcADaM1",
+            "orderHint": "858644469G\\",
+            "id": "gHQ_ge7Z-U63vfBQzKXHKZcAHJRV"
+        },
+        {
+            "@odata.etag": "W/\"JzEtQnVja2V0QEBAQEBAQEBAQEBAQEBARCc=\"",
+            "name": "PowerApps",
+            "planId": "rQuainZGZU2v7VwGld7ivpcADaM1",
+            "orderHint": "858644469Zd",
+            "id": "hBwrJ1jqLUipsE6135Q7iJcADc-h"
+        },
+        {
+            "@odata.etag": "W/\"JzEtQnVja2V0QEBAQEBAQEBAQEBAQEBARCc=\"",
+            "name": "Flow",
+            "planId": "rQuainZGZU2v7VwGld7ivpcADaM1",
+            "orderHint": "85864446:R",
+            "id": "jz0spWg9x0mZybrYOVaNrpcAKLU5"
+        },
+        {
+            "@odata.etag": "W/\"JzEtQnVja2V0QEBAQEBAQEBAQEBAQEBARCc=\"",
+            "name": "Forms",
+            "planId": "rQuainZGZU2v7VwGld7ivpcADaM1",
+            "orderHint": "85864446;V",
+            "id": "mgrF5t2K5EWYpuOwif4GtpcAEEeC"
+        },
+        {
+            "@odata.etag": "W/\"JzEtQnVja2V0QEBAQEBAQEBAQEBAQEBARCc=\"",
+            "name": "OneDrive",
+            "planId": "rQuainZGZU2v7VwGld7ivpcADaM1",
+            "orderHint": "85864446=K",
+            "id": "0oNO9o7Nxk2l1EQP_e078pcAAyDb"
+        },
+        {
+            "@odata.etag": "W/\"JzEtQnVja2V0QEBAQEBAQEBAQEBAQEBARCc=\"",
+            "name": "SharePoint",
+            "planId": "rQuainZGZU2v7VwGld7ivpcADaM1",
+            "orderHint": "85864446AL",
+            "id": "Md1DGrocR0KmW_SHQsAxnZcAC9BX"
+        },
+        {
+            "@odata.etag": "W/\"JzEtQnVja2V0QEBAQEBAQEBAQEBAQEBARCc=\"",
+            "name": "Skype",
+            "planId": "rQuainZGZU2v7VwGld7ivpcADaM1",
+            "orderHint": "85864446J@",
+            "id": "30Nta0bOHE-TJB0kWvVwh5cAKIkM"
+        },
+        {
+            "@odata.etag": "W/\"JzEtQnVja2V0QEBAQEBAQEBAQEBAQEBARCc=\"",
+            "name": "Exchange",
+            "planId": "rQuainZGZU2v7VwGld7ivpcADaM1",
+            "orderHint": "85864446\\=",
+            "id": "ce5UCS0SWUyRSJeMHx9CaJcACDcF"
+        },
+        {
+            "@odata.etag": "W/\"JzEtQnVja2V0QEBAQEBAQEBAQEBAQEBASCc=\"",
+            "name": "Teams",
+            "planId": "rQuainZGZU2v7VwGld7ivpcADaM1",
+            "orderHint": "8586444700797632074P_",
+            "id": "vAUS-hi6NkS_JKcrGlOWv5cAEyv0"
+        }
+    ]
+}

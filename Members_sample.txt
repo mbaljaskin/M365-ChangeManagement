@@ -1,0 +1,64 @@
+
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#directoryObjects",
+    "value": [
+        {
+            "@odata.type": "#microsoft.graph.user",
+            "id": "3e076397-2ff2-4292-8128-d382a8277b28",
+            "businessPhones": [
+                "4250000000"
+            ],
+            "displayName": "Mika Baljaskin",
+            "givenName": "Mika",
+            "jobTitle": null,
+            "mail": "Mika@baljaskin.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "preferredLanguage": "en-GB",
+            "surname": "Baljaskin",
+            "userPrincipalName": "Mika@baljaskin.onmicrosoft.com"
+        },
+        {
+            "@odata.type": "#microsoft.graph.user",
+            "id": "70634689-2586-4223-b6f3-abe3fbb01d34",
+            "businessPhones": [],
+            "displayName": "Planner Nakkikone",
+            "givenName": "Planner",
+            "jobTitle": null,
+            "mail": "automaatio@baljaskin.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "preferredLanguage": null,
+            "surname": "Nakkikone",
+            "userPrincipalName": "automaatio@baljaskin.onmicrosoft.com"
+        },
+        {
+            "@odata.type": "#microsoft.graph.user",
+            "id": "28669596-a75f-4150-976c-de761637c1f6",
+            "businessPhones": [],
+            "displayName": "Veera Baljaskin",
+            "givenName": "Veera",
+            "jobTitle": null,
+            "mail": "veera@baljaskin.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "preferredLanguage": null,
+            "surname": "Baljaskin",
+            "userPrincipalName": "veera@baljaskin.onmicrosoft.com"
+        },
+        {
+            "@odata.type": "#microsoft.graph.user",
+            "id": "60db18c6-c6f1-40c3-9668-7843ae47f387",
+            "businessPhones": [],
+            "displayName": "Lauri Baljaskin",
+            "givenName": "Lauri",
+            "jobTitle": null,
+            "mail": "lauri@baljaskin.onmicrosoft.com",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "preferredLanguage": null,
+            "surname": "Baljaskin",
+            "userPrincipalName": "lauri@baljaskin.onmicrosoft.com"
+        }
+    ]
+}
